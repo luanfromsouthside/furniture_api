@@ -1,6 +1,6 @@
 let express = require("express");
 let app = express();
-const PORT = process.env.PORT || 8000;
+let port = process.env.PORT || 3000;
 
 // let Furniture = require('./furniture');
 // let Categories = require('./categories');
@@ -11,6 +11,7 @@ const CategoryModel = require('./models/category');
 let bodyParser = require('body-parser');
 app.use(bodyParser.urlencoded({extend:false}));
 app.use(bodyParser.json());
+
 
 //Get all Furniture
 app.get('/furniture',function (req, res) {
@@ -138,6 +139,6 @@ app.post('/category',(req, res, next) => {
     })
 });
 
-app.listen(PORT, () => {
+app.listen(port, () => {
     console.log('server started');
 });
