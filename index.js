@@ -49,8 +49,9 @@ app.get('/furniture/:id',(req,res)=>{
 });
 
 app.get('/',(req,res)=>{
-    console.log("User connect api ...");
-    return res.redirect('/furniture');
+    //console.log("User connect api ...");
+    //return res.redirect('/furniture');
+    return res.send("Hello");
 });
 
 //Get all Categories
