@@ -1,0 +1,22 @@
+[
+  {
+    "_id": "accessories",
+    "name": "Accessories",
+    "img": "https://firebasestorage.googleapis.com/v0/b/thuchanhandroid-c3b7f.appspot.com/o/accessories.png?alt=media&token=458ae950-9435-48e8-948f-4d9e6f2f144b"
+  },
+  {
+    "_id": "bed_room",
+    "name": "Bed Room",
+    "img": "https://firebasestorage.googleapis.com/v0/b/thuchanhandroid-c3b7f.appspot.com/o/bed_room.png?alt=media&token=8d6e4350-c159-4915-a2bf-306f821b2a8c"
+  },
+  {
+    "_id": "living_room",
+    "name": "Living Room",
+    "img": "https://firebasestorage.googleapis.com/v0/b/thuchanhandroid-c3b7f.appspot.com/o/living_room.png?alt=media&token=e2b86100-9024-40c7-b087-98993b7b2d37"
+  },
+  {
+    "_id": "meeting_room",
+    "name": "Meeting Room",
+    "img": "https://firebasestorage.googleapis.com/v0/b/thuchanhandroid-c3b7f.appspot.com/o/meeting_room.png?alt=media&token=df3987f6-3ba1-4bd2-b3c7-384796398c40"
+  }
+]

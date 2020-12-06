@@ -1,0 +1,45 @@
+[
+  {
+    "_id": "pro01",
+    "name": "Zinus Jocelyn Contemporary 65 inch",
+    "img": "https://firebasestorage.googleapis.com/v0/b/thuchanhandroid-c3b7f.appspot.com/o/hinh_1.png?alt=media&token=243a21b7-2ad1-4e0b-8b34-54d80e71a3b7",
+    "id_cate": "living_room",
+    "description": "Easily assembles with a friend, no tools needed, in under 20 minutes. Modern armless design with stress-free fabrics, durable and easy-to-clean"
+  },
+  {
+    "_id": "pro02",
+    "name": "GreenForest L-Shape Corner",
+    "img": "https://firebasestorage.googleapis.com/v0/b/thuchanhandroid-c3b7f.appspot.com/o/hinh_2.png?alt=media&token=b11adea9-1a2f-4b82-a5a5-d427cef85df1",
+    "id_cate": "accessories",
+    "description": "Spacious Gaming Computer Desk: with 58.1” length from left to right , the black L-shape computer desk can hold at least 2 monitors, laptops, or computers , providing spacious top surface for gaming activities ,home office work, engineering drawing and other activities which demand more space."
+  },
+  {
+    "_id": "pro03",
+    "name": "Christopher Knight Home",
+    "img": "https://firebasestorage.googleapis.com/v0/b/thuchanhandroid-c3b7f.appspot.com/o/hinh_3.png?alt=media&token=ccd5f971-5d49-4e0b-88a1-3a441939d3a0",
+    "id_cate": "living_room",
+    "description": "The canterburry high Back wing chair will make a statement in any room of your home the Shape and Height of the Back command attention while the armrests and cushioned Seat allow for comfort. Perfect for entertaining or relaxing this chair will offer an intelligent design touch to your home."
+  },
+
+  {
+    "_id": "pro04",
+    "name": "Sealy",
+    "img": "https://firebasestorage.googleapis.com/v0/b/thuchanhandroid-c3b7f.appspot.com/o/hinh_4.png?alt=media&token=dfe99d61-6b08-46eb-bff3-29c6d988566f",
+    "id_cate": "meeting_room",
+    "description": "Sealy is ranked America's #1 Mattress Brand, 2020. Even after 130 years, we still check our work– testing above and beyond industry standards to give you the quality you need for the sleep you deserve."
+  },
+  {
+    "_id": "pro05",
+    "name": "Ameriwood Kendall",
+    "img": "https://firebasestorage.googleapis.com/v0/b/thuchanhandroid-c3b7f.appspot.com/o/hinh_5.png?alt=media&token=8439e131-f37b-4b28-a278-6dd7f7fb0ec2",
+    "id_cate": "bed_room",
+    "description": "Add extra storage space to any room in your home with the SystemBuild Kendall 16” Storage Cabinet. Made of laminated MDF and particleboard, the water resistant white finish is easy to clean so the Cabinet can be used anywhere. "
+  },
+  {
+    "_id": "pro06",
+    "name": "Pot Flowers",
+    "img": "https://firebasestorage.googleapis.com/v0/b/thuchanhandroid-c3b7f.appspot.com/o/hinh_6.png?alt=media&token=fa55b5d2-406d-4893-ba3a-017c91a9937f",
+    "id_cate": "bed_room",
+    "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo."
+  }
+]
