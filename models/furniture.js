@@ -1,6 +1,7 @@
 const mongoose = require('mongoose');
 const Schema = mongoose.Schema;
-const url = 'mongodb://localhost/testdb'
+const url = process.env.DB_URL;
+//const url = 'mongodb://localhost/testdb'
 //const url = 'mongodb+srv://thuchanhandroid:thuchanhandroid@cluster0.8qmwl.mongodb.net/AppDB?retryWrites=true&w=majority'
 
 mongoose.connect( url,{
