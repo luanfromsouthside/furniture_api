@@ -61,7 +61,7 @@ app.get('/category',(req, res) => {
         if(data===null){
             res.status(404).send("Couldn't found");
         }else {
-            res.send(data);
+            res.send({category : data});
         }
     }).catch(err=>{
         res.send('Find error')
